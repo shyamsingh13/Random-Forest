@@ -28,6 +28,7 @@ Problem Statement:
 
 In this problem, you do not have to predict the actual price but a price range indicating how high
 the price is using Random Forest.
+
 ![image](https://user-images.githubusercontent.com/104570975/224584279-0835d6d6-bbc3-4494-ba67-da1238ec14b6.png)
 ![image](https://user-images.githubusercontent.com/104570975/224584315-95b524a7-b826-4358-9974-0e4f7fe7fa70.png)
 
