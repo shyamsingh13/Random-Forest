@@ -34,7 +34,6 @@ the price is using Random Forest.
 Scope:
 
 ● Prepare and analyse data
-● Perform Univariate and Bivariate analysis
 ● Train Random Forest model with data and check it’s performance
 
 Learning Outcome:
